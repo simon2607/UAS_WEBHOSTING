@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/2325972.jpg
+title: WELCOME SIMON SERVER
+image: /img/logo1.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Nikmati Kenyamanan Nge Web Bersama Hosting Terbaik
 mainpitch:
   title: Why Kaldi
   description: >
