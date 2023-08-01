@@ -9,8 +9,8 @@ mainpitch:
   description: Paket layanan VPS Murah dengan performa tak tertandingi untuk
     website dan aplikasi yang lebih cepat dan stabil.
 description: "Buat website dan email untuk bisnismu dan mulai mendunia dengan
-  layanan web hosting Indonesia dari Rumahweb. Dapatkan hosting dengan kecepatan
-  dan keamanan terbaik "
+  layanan web hosting Indonesia dari Simon Server. Dapatkan hosting dengan
+  kecepatan dan keamanan terbaik "
 intro:
   blurbs:
     - image: /img/coffee.png
